@@ -1,0 +1,175 @@
+2021/07/21 16:34:34 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/main.py", line 111, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/main.py", line 94, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/21 20:58:33 +0800 - root - ERROR - sql_type (sqlite_insert) not found
+2021/07/21 21:01:41 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:01:41 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:04:02 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:04:02 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:17:26 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:17:26 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:17:58 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:17:58 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:17:59 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:17:59 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:18:00 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:18:00 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:22:59 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:22:59 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:36:32 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:36:32 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error 'column'
+2021/07/21 22:12:06 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 22:12:06 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error UNIQUE constraint failed: data.chat_id
+2021/07/22 11:26:08 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 107, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 11:27:27 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 108, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 12:13:14 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 107, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 12:14:57 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 107, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 23:29:53 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,)
+TypeError: add_job() missing 1 required positional argument: 'callback'
+2021/07/22 23:32:49 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test)
+TypeError: add_job() missing 1 required positional argument: 'callback'
+2021/07/22 23:33:40 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test())
+TypeError: add_job() missing 1 required positional argument: 'callback'
+2021/07/22 23:41:20 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test())
+TypeError: alarm_test() missing 1 required positional argument: 'context'
+2021/07/22 23:44:45 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test)
+  File "/media/quance/black_03/Telegram_bot/lib/job.py", line 22, in add_job
+    cls._call('add_job',chat_id,count,callback)
+  File "/media/quance/black_03/Telegram_bot/lib/job.py", line 15, in _call
+    cls._job_queue.put(
+TypeError: put() takes from 2 to 4 positional arguments but 5 were given
+2021/07/22 23:59:37 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7ff1f45287f0 state=finished raised ValueError>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 412, in add_done_callback
+    fn(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 90, in alarm_test
+    task = context.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 437, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 389, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/media/quance/black_03/Telegram_bot/lib/function.py", line 7, in mytimer
+    chat_id, count = args
+ValueError: not enough values to unpack (expected 2, got 1)
+2021/07/23 00:21:48 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7f6468299ac0 state=finished raised ValueError>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 328, in _invoke_callbacks
+    callback(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 90, in alarm_test
+    task = context.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 437, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 389, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/media/quance/black_03/Telegram_bot/lib/function.py", line 8, in mytimer
+    chat_id, count = args
+ValueError: not enough values to unpack (expected 2, got 1)
+2021/07/23 00:29:44 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7f6a5c293d00 state=finished raised ValueError>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 328, in _invoke_callbacks
+    callback(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 90, in alarm_test
+    task = context.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 437, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 389, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/media/quance/black_03/Telegram_bot/lib/function.py", line 8, in mytimer
+    chat_id, count = args
+ValueError: not enough values to unpack (expected 2, got 1)
+2021/07/23 00:39:57 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7f67e83d8220 state=finished returned dict>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 328, in _invoke_callbacks
+    callback(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 91, in alarm_test
+    context.bot.send_message(task['chat_id'], text='Beep!')
+AttributeError: 'Future' object has no attribute 'bot'

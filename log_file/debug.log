@@ -1,0 +1,2039 @@
+2021/07/21 16:06:58 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:06:58 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:07:25 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:07:25 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:07:25 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:07:25 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:07:37 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:07:37 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:09:02 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:09:02 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:10:05 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:10:05 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:10:05 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:10:05 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:10:11 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:10:11 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:10:27 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:10:27 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:12:04 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:12:04 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:14:02 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:14:02 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:14:34 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:14:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:15:53 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:15:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:15:54 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:15:54 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:20:39 +0800 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021/07/21 16:20:39 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:20:40 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:20:40 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:21:39 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 16:21:44 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:21:44 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:21:45 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:21:45 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:21:53 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 16:21:53 +0800 - root - INFO - chat id: %s
+2021/07/21 16:21:54 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:21:54] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:22:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:22:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:22:32 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 16:22:38 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:22:38 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:22:39 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:22:39 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:22:49 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 16:22:49 +0800 - root - INFO - chat id: 845044764
+2021/07/21 16:22:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:22:50] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:22:55 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:22:55] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:23:52 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 16:23:57 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:23:57 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:23:57 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:23:57 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:24:03 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 16:24:03 +0800 - root - INFO - chat id: 845044764
+2021/07/21 16:24:04 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:04] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:07] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:13] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:15] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:17 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:17] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:20 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:20] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:21 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:21] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:22 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:22] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:24:24 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:24:24] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:25:20 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 16:25:33 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:25:33 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:25:33 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:25:33 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:25:53 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 16:25:56 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:25:56 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:25:57 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:25:57 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:26:04 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:04] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:05] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:05] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:07] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:08] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:09 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:09] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:10 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:10] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:11 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:11] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:11 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:11] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:12 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:12] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:13] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:14 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:14] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:26:14 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:26:14] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:27:14 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:27:14] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:32:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:32:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:34:15 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 16:34:17 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:34:17 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:34:18 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:34:18 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:34:34 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/main.py", line 111, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/main.py", line 94, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/21 16:34:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 16:34:34] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 16:36:09 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:36:09 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:36:10 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:36:10 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 16:40:55 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 16:40:55 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 16:40:56 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 16:40:56 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 17:16:09 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 17:16:09 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 17:16:09 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 17:16:09 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 17:17:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:17:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:17:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:17:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:17:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:17:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:34:11 +0800 - root - INFO - recive auto update: application/json
+2021/07/21 17:34:12 +0800 - werkzeug - INFO - 172.20.0.2 - - [21/Jul/2021 17:34:12] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/21 17:34:56 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 17:34:56 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 17:34:56 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 17:34:56 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 17:35:21 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:35:21] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:36:18 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:36:18] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:36:22 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 17:36:22 +0800 - root - INFO - chat id: 845044764
+2021/07/21 17:36:23 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:36:23] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:36:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 17:36:28] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 17:36:57 +0800 - root - INFO - recive auto update: application/json
+2021/07/21 17:36:58 +0800 - werkzeug - INFO - 192.168.1.140 - - [21/Jul/2021 17:36:58] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/21 18:01:19 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 18:01:19 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:01:19 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 18:01:19 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 18:02:50 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 18:02:50 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:02:51 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 18:02:51 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 18:03:01 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 18:03:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:03:01 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 18:03:01 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 18:06:41 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 18:06:41 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:11:21 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 18:11:21 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:11:21 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 18:11:21 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 18:11:41 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 18:11:41 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:11:42 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 18:11:42 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 18:11:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:11:50] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:11:52 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:11:52] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:12:28 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 18:12:28 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 18:12:29 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 18:12:29 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 18:12:36 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:12:36] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:12:38 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:12:38] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:32:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:32:08] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:32:17 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:32:17] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:32:42 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:32:42] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 18:32:46 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 18:32:46] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:18 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:18] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:28] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:31 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:31] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:32 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:32] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:34] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:35 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:35] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:36 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:36] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:36 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:36] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:37 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:37] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:35:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:35:50] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:36:22 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:36:22] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:36:38 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 19:36:38 +0800 - root - INFO - chat id: 845044764
+2021/07/21 19:36:39 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:36:39] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:36:45 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:36:45] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:51:55 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 19:51:55 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 19:51:55 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 19:51:55 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 19:52:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:52:05] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:52:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:52:07] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:52:36 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 19:52:36 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 19:52:36 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 19:52:36 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 19:52:51 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:52:51] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:52:56 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:52:56] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:53:18 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 19:53:18 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 19:53:18 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 19:53:18 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 19:53:24 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:53:24] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 19:55:10 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 19:55:10 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 19:55:11 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 19:55:11 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 19:55:20 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 19:55:20] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 20:00:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 20:00:50] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 20:01:00 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 20:01:00 +0800 - root - INFO - chat id: 845044764
+2021/07/21 20:01:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 20:01:01] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 20:01:11 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 20:01:12 +0800 - root - INFO - chat id: 845044764
+2021/07/21 20:01:12 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 20:01:12] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 20:01:35 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 20:01:35 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:01:35 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:01:35 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:01:54 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 20:01:54 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:01:55 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:01:55 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:02:54 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 20:02:54 +0800 - root - INFO - chat id: 845044764
+2021/07/21 20:02:54 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 20:02:54] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 20:09:49 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 20:09:49 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:11:10 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:11:10 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:11:10 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:11:10 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:11:10 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:11:10 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:11:43 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:11:43 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:11:43 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:11:43 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:11:43 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:11:43 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:12:34 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 20:12:39 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:12:39 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:12:39 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:12:40 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:12:40 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:12:40 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:13:13 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 20:13:16 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:13:16 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:13:16 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:13:16 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:13:16 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:13:16 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:13:32 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 20:13:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:13:34 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:13:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:13:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:13:34 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:13:34 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:33:31 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 20:33:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:33:34 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:33:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:33:35 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:33:35 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:33:35 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:34:35 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:34:35 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:34:35 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:34:36 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:34:36 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:34:36 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:34:51 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:34:51 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:34:51 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:34:52 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:34:52 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:34:52 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:36:13 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/db.py', reloading
+2021/07/21 20:36:17 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:36:17 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:36:17 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:36:17 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:36:17 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:36:17 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:37:26 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/db.py', reloading
+2021/07/21 20:37:29 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:37:29 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:37:29 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:37:30 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:37:30 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:37:30 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:37:49 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/db.py', reloading
+2021/07/21 20:37:53 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:37:53 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:37:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:37:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:37:54 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:37:54 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:38:39 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/21 20:38:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:38:41 +0800 - root - INFO - SQlite server starting up ....
+2021/07/21 20:38:41 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:38:41 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:38:42 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:38:42 +0800 - root - INFO - SQlite server starting up ....
+2021/07/21 20:38:42 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:38:42 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:39:11 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/db.py', reloading
+2021/07/21 20:39:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:39:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:39:14 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:39:14 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:39:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:39:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:39:14 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:39:14 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:39:36 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/db.py', reloading
+2021/07/21 20:39:39 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:39:39 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:39:39 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:39:39 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:39:40 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:39:40 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:39:40 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:39:40 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:58:10 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 20:58:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:58:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:58:14 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:58:14 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:58:15 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:58:15 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:58:15 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:58:15 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:58:33 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 20:58:33 +0800 - root - INFO - chat id: 845044764
+2021/07/21 20:58:33 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 20:58:33] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 20:58:33 +0800 - root - ERROR - sql_type (sqlite_insert) not found
+2021/07/21 20:59:07 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqliteapi.py', reloading
+2021/07/21 20:59:09 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:59:09 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:59:09 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 20:59:09 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 20:59:10 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 20:59:10 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 20:59:10 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 20:59:10 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 20:59:13 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 20:59:13 +0800 - root - INFO - chat id: 845044764
+2021/07/21 20:59:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 20:59:13] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:01:27 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:01:28 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:01:28 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:01:28 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:01:28 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:01:29 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:01:29 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:01:29 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:01:29 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:01:41 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:01:41 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:01:41 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:01:41] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:01:41 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:01:41 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:04:01 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:04:02 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:04:02 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:04:02] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:04:02 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:04:02 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:05:35 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:05:35 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:05:35 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:05:35 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:05:36 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:05:36 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:05:36 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:05:36 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:05:58 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x7ffb885f1730>, 'Connect timed out. (connect timeout=5.0)')': /bot1497778797:AAGdDvfIQfCXhajPoaWGfMgR_tAmORvjynQ/getMe
+2021/07/21 21:06:04 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x7ffb885f1730>, 'Connect timed out. (connect timeout=5.0)')': /bot1497778797:AAGdDvfIQfCXhajPoaWGfMgR_tAmORvjynQ/getMe
+2021/07/21 21:06:09 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:06:11 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:06:52 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:06:53 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:07:53 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:07:54 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:08:57 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:08:58 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:09:44 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:09:44 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:09:44 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:09:44 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:09:45 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:09:45 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:09:45 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:09:45 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:09:52 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:09:53 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:11:07 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:11:08 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:12:11 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:12:13 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:12:13 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:12:13 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:12:13 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:12:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:12:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:12:14 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:12:14 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:12:40 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:12:41 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:12:53 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:12:53 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:12:53 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:12:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:12:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:12:54 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:12:54 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:12:54 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:12:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:12:59 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:13:29 +0800 - root - INFO - recive auto update: application/json
+2021/07/21 21:13:30 +0800 - werkzeug - INFO - 172.20.0.2 - - [21/Jul/2021 21:13:30] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/21 21:13:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:13:59 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:14:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:14:59 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:15:17 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:15:22 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:15:22 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:15:22 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:15:22 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:15:23 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:15:23 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:15:23 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:15:23 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:15:24 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:15:24 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:15:56 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:15:56 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:15:56 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:15:56 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:15:57 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:15:57 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:15:57 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:15:57 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:15:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:15:59 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:16:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:16:59 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:17:18 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:17:18 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:17:18 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:17:18 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:17:19 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:17:19 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:17:19 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:17:19 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:17:26 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:17:26 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:17:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:17:26] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:17:26 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:17:26 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:17:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:17:58 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:17:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:17:58] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:17:58 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:17:58 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:17:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:17:59 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:17:59 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:17:59] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:17:59 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:17:59 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:17:59 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:18:00 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 21:18:00 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:18:00] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:18:00 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:18:00 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:22:09 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:22:12 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:22:12 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:22:12 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:22:12 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:22:13 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:22:13 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:22:13 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:22:13 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:22:53 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:22:53] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:22:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:22:59 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:22:59 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:22:59] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:22:59 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:22:59 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error list indices must be integers or slices, not str
+2021/07/21 21:23:38 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:23:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:23:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:23:41 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:23:41 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:23:42 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:23:42 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:23:42 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:23:42 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:31:52 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/util/sys_config.py', reloading
+2021/07/21 21:31:55 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:31:55 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:31:55 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:31:55 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:31:56 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:31:56 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:31:56 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:31:56 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:34:21 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/util/sys_config.py', reloading
+2021/07/21 21:34:25 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:34:25 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:34:25 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:34:25 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:34:26 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:34:26 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:34:26 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:34:26 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:36:08 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:36:11 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:36:11 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:36:11 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:36:11 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:36:12 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:36:12 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:36:12 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:36:12 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:36:31 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:36:32 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:36:32 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:36:32] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:36:32 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 21:36:32 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error 'column'
+2021/07/21 21:37:30 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqliteapi.py', reloading
+2021/07/21 21:37:33 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:37:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:37:34 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:37:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:37:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:37:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:37:34 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:37:34 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:37:40 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:37:40 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:37:40 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:37:40] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:38:21 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/util/sys_config.py', reloading
+2021/07/21 21:38:24 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:38:24 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:38:24 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:38:24 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:38:25 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:38:25 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:38:25 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:38:25 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:38:29 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:38:30 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:38:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:38:30] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:41:02 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:41:02 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:41:02 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:41:02 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:41:02 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:41:02 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:41:02 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:41:02 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:41:09 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:41:10 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:41:10 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:41:10] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:41:20 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 21:41:20 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:41:21 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:41:21 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:41:21 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:41:21 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:41:24 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:41:25 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:41:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:41:25] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:42:27 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:42:27 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:42:27 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:42:27 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:42:27 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:42:27 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:42:27 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:42:27 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:42:34 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:42:35 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:42:35 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:42:35] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:43:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:43:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:43:47 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:43:47 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:43:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:43:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:43:47 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:43:47 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:43:51 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:43:52 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:43:52 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:43:52] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:45:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:45:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:45:01 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:45:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:45:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:45:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:45:01 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:45:01 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:45:12 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:45:13 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:45:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:45:13] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:46:00 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:46:00 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:46:00 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:46:00 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:46:00 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:46:00 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:46:07 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:46:07 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:46:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:46:07] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:46:44 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:46:44 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:46:44 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:46:44 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:46:45 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:46:45 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:46:45 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:46:45 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:46:49 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:46:50 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:46:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:46:50] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:47:17 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:47:17 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:47:18 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:47:18 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:47:18 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:47:18 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:47:22 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:47:23 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:47:23 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:47:23] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:49:09 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 21:49:09 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:49:09 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:49:09 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:49:09 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:49:09 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:49:16 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:49:17 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:49:17 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:49:17] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:49:57 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 21:49:57 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:49:57 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:49:57 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:49:57 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:49:57 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:50:04 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:50:05 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:50:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:50:05] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:56:23 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:56:23 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:56:23 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:56:23 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:56:23 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:56:23 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:56:23 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:56:23 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:56:30 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:56:30 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:56:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:56:30] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:57:22 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 21:57:22 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:57:23 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:57:23 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:57:23 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:57:23 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:57:29 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:57:30 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:57:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:57:30] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:57:55 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 21:57:55 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:57:55 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:57:55 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:57:55 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:57:55 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:58:48 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 21:58:57 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 21:58:58 +0800 - root - INFO - chat id: 845044764
+2021/07/21 21:58:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 21:58:58] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 21:58:58 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:58:58 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:58:58 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:58:58 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:58:58 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 21:59:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:59:54 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:59:54 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 21:59:54 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 21:59:55 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 21:59:55 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 21:59:55 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 21:59:55 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 22:00:02 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:00:03 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:00:03 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:00:03] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:00:14 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:00:14 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 22:00:14 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:00:14] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:00:34 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 22:04:17 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:04:17 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:04:17 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 22:04:17 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 22:04:17 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:04:17 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:04:17 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 22:04:17 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 22:04:29 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:04:30 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:04:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:04:30] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:04:53 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:04:53 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 22:04:53 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:04:53] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:05:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:05:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:05:46 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 22:05:46 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 22:05:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:05:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:05:46 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 22:05:46 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 22:05:52 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:05:53 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 22:05:53 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:05:53] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:05:58 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:05:59 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 22:05:59 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:05:59] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:32 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:32] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:33 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:33] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:35 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:35] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:37 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:37] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:39 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:39] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:40 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:40] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:41 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:41] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:42 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:42] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:43 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:43] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:58] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:58] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:09:59 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:09:59] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:00 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:00] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:01] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:01] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:02 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:02] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:03 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:03] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:04 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:04] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:05] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:24 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 22:10:24 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 22:10:25 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:10:25 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:10:25 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 22:10:25 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 22:10:42 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:10:42 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:10:42 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:42] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:47 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:47] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:50] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:10:57 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:10:57] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:11:08 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:11:08 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:11:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:11:08] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:12:01 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqliteapi.py', reloading
+2021/07/21 22:12:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 22:12:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:12:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:12:01 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 22:12:01 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 22:12:06 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:12:06 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 22:12:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:12:06] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:12:06 +0800 - root - ERROR - data save path /media/quance/black_03/Telegram_bot/data_file/user/2020_01_01/235ad805ae73293a472def7d5ec6f11d519ad4b8.db
+2021/07/21 22:12:06 +0800 - root - ERROR - data save to sqlite db name 235ad805ae73293a472def7d5ec6f11d519ad4b8 with error UNIQUE constraint failed: data.chat_id
+2021/07/21 22:13:23 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqliteapi.py', reloading
+2021/07/21 22:18:18 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:18:18 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:18:18 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 22:18:18 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 22:18:18 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 22:18:18 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 22:18:18 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 22:18:18 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 22:18:27 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:18:27 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:18:27 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:18:27] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:18:31 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:18:32 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:18:32 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:18:32] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:18:35 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:18:36 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:18:36 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:18:36] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:18:38 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 22:18:38 +0800 - root - INFO - chat id: 845044764
+2021/07/21 22:18:38 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:18:38] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 22:18:44 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqlite_db.py', reloading
+2021/07/21 22:20:24 +0800 - root - INFO - User 宥旻, 陳 started the conversation.
+2021/07/21 22:20:25 +0800 - root - INFO - chat id: 983310724
+2021/07/21 22:20:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 22:20:25] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:09:38 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:09:38] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:09:44 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 23:09:44 +0800 - root - INFO - chat id: 845044764
+2021/07/21 23:09:44 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:09:44] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:11:59 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:11:59 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:11:59 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 23:11:59 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 23:12:00 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:12:00 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:12:00 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 23:12:00 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 23:12:11 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 23:12:11 +0800 - root - INFO - chat id: 845044764
+2021/07/21 23:12:11 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:12:11] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:12:56 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 23:14:28 +0800 - root - INFO - User Wu, Quance started the conversation.
+2021/07/21 23:14:29 +0800 - root - INFO - chat id: 845044764
+2021/07/21 23:14:29 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:14:29] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:14:40 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:14:40 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:14:40 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 23:14:40 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 23:14:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:14:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:14:41 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 23:14:41 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 23:14:45 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/21 23:14:46 +0800 - root - INFO - chat id: 845044764
+2021/07/21 23:14:46 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:14:46] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:15:43 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:15:43] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:22:36 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/21 23:28:20 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:28:20 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:28:20 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 23:28:20 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 23:28:21 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:28:21 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:28:21 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 23:28:21 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 23:28:39 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/21 23:28:39 +0800 - root - INFO - chat id: 845044764
+2021/07/21 23:28:39 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:28:39] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:28:54 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/21 23:28:55 +0800 - root - INFO - chat id: 845044764
+2021/07/21 23:28:55 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:28:55] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:29:14 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/21 23:29:15 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 23:29:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:29:15] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:29:19 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/21 23:29:20 +0800 - root - INFO - chat id: -1001275188916
+2021/07/21 23:29:20 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:29:20] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:31:22 +0800 - root - INFO - User 宥旻, 陳 register to system
+2021/07/21 23:31:23 +0800 - root - INFO - chat id: 983310724
+2021/07/21 23:31:23 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:31:23] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:33:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:33:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:33:14 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/21 23:33:14 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/21 23:33:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/21 23:33:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/21 23:33:14 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/21 23:33:14 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/21 23:33:21 +0800 - werkzeug - INFO - 172.19.0.2 - - [21/Jul/2021 23:33:21] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/21 23:33:27 +0800 - root - INFO - recive auto update: application/json
+2021/07/21 23:33:28 +0800 - werkzeug - INFO - 172.20.0.2 - - [21/Jul/2021 23:33:28] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 00:15:26 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 00:15:27 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 00:15:27] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 02:57:27 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 02:57:28 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 02:57:28] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 05:55:23 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 05:55:24 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 05:55:24] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 06:29:11 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 06:29:12 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 06:29:12] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 07:12:27 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 07:12:28 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 07:12:28] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 08:41:25 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 08:41:26 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 08:41:26] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 10:47:13 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 10:47:14 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 10:47:14] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 11:04:29 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 11:04:29 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 11:04:29 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 11:04:29 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 11:04:30 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 11:04:30 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 11:04:30 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 11:04:30 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 11:19:00 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/22 11:19:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 11:19:26] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 11:20:52 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 11:20:52] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 11:26:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 11:26:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 11:26:01 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 11:26:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 11:26:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 11:26:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 11:26:01 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 11:26:01 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 11:26:08 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 107, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 11:26:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 11:26:08] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 11:27:16 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/22 11:27:21 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 11:27:21 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 11:27:21 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 11:27:21 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 11:27:22 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 11:27:22 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 11:27:22 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 11:27:22 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 11:27:27 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 108, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 11:27:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 11:27:28] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 11:27:39 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/22 12:12:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:12:54 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:12:54 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 12:12:54 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 12:12:55 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:12:55 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:12:55 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 12:12:55 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 12:13:14 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 107, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 12:13:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 12:13:15] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 12:13:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:13:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:13:34 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 12:13:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 12:13:35 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:13:35 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:13:35 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 12:13:35 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 12:14:45 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:14:45 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:14:45 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 12:14:45 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 12:14:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:14:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:14:46 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 12:14:46 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 12:14:53 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:14:53 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:14:54 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 12:14:54 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 12:14:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:14:54 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:14:54 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 12:14:54 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 12:14:57 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 107, in set_timer
+    job_removed = remove_job_if_exists(str(chat_id), context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 89, in remove_job_if_exists
+    current_jobs = context.job_queue.get_jobs_by_name(name)
+AttributeError: 'NoneType' object has no attribute 'get_jobs_by_name'
+2021/07/22 12:14:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 12:14:58] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 12:52:57 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/22 12:53:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:53:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:53:01 +0800 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021/07/22 12:53:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 12:53:02 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 12:53:02 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 12:53:02 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 12:53:02 +0800 - werkzeug - INFO -  * Debugger PIN: 203-927-203
+2021/07/22 12:53:15 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/22 12:53:16 +0800 - root - INFO - chat id: 845044764
+2021/07/22 12:53:16 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 12:53:16] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 13:39:29 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 13:39:30 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 13:39:30] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 14:51:16 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 14:51:17 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 14:51:17] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 17:14:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 17:14:28] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 17:14:31 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 17:14:31] "[37mPOST /hook HTTP/1.0[0m" 200 -
+2021/07/22 19:55:53 +0800 - werkzeug - INFO -  * Detected change in '/home/quance/.local/lib/python3.8/site-packages/jinja2/utils.py', reloading
+2021/07/22 21:00:26 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 21:00:27 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 21:00:27] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 21:03:11 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 21:03:12 +0800 - werkzeug - INFO - 172.20.0.2 - - [22/Jul/2021 21:03:12] "[37mPOST /hook/api HTTP/1.1[0m" 200 -
+2021/07/22 22:32:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 22:32:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 22:32:47 +0800 - root - INFO - Job Service init ...
+2021/07/22 22:47:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 22:47:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 22:47:41 +0800 - root - INFO - Job Service init ...
+2021/07/22 22:48:19 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 22:48:19 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 22:48:19 +0800 - root - INFO - Job Service init ...
+2021/07/22 22:48:40 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 22:48:40 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 22:48:40 +0800 - root - INFO - Job Service init ...
+2021/07/22 22:49:42 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 22:49:42 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 22:49:42 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 22:49:42 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 22:49:42 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 22:49:42 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 22:49:42 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 22:49:42 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 22:49:42 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 22:49:54 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 22:49:54] "POST /hook HTTP/1.0" 200 -
+2021/07/22 22:49:55 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 22:49:55] "POST /hook HTTP/1.0" 200 -
+2021/07/22 22:49:56 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 22:49:56] "POST /hook HTTP/1.0" 200 -
+2021/07/22 22:49:56 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 22:49:56] "POST /hook HTTP/1.0" 200 -
+2021/07/22 22:49:57 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 22:49:57] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:05:23 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/22 23:22:59 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:22:59 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:22:59 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:25:16 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:25:16 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:25:16 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:25:33 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:25:33 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:25:33 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:26:03 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:26:03 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:26:03 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:27:53 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:27:53 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:27:53 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:27:53 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:27:53 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:27:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:27:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:27:54 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:27:54 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:27:54 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:27:54 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:28:21 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:28:21 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:28:21 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:28:21 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:28:21 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:28:21 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:28:22 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:28:22 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:28:22 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:28:22 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:28:22 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:29:50 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:29:50 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:29:51 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:29:51 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:29:51 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:29:51 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:29:51 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:29:51 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:29:51 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:29:53 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,)
+TypeError: add_job() missing 1 required positional argument: 'callback'
+2021/07/22 23:29:53 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:29:53] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:31:29 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/db.py', reloading
+2021/07/22 23:32:49 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test)
+TypeError: add_job() missing 1 required positional argument: 'callback'
+2021/07/22 23:32:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:32:50] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:33:40 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test())
+TypeError: add_job() missing 1 required positional argument: 'callback'
+2021/07/22 23:33:40 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:33:40] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:38:33 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:38:33 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:38:33 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:38:33 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:38:34 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:38:34 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:38:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:38:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:38:34 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:38:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:38:34 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:38:35 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:38:35 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:39:15 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:39:15 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:39:15 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:39:15 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:39:16 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:39:16 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:39:16 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:39:17 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:39:17 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:39:17 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:39:17 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:39:17 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:39:17 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:40:04 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:40:04 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:40:04 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:40:04 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:40:05 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:40:05 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:40:05 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:40:06 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:40:06 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:40:06 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:40:06 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:40:06 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:40:06 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:40:49 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:40:49 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:40:49 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:40:49 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:40:49 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:41:20 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test())
+TypeError: alarm_test() missing 1 required positional argument: 'context'
+2021/07/22 23:41:21 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:21] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:22 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:22] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:22 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:22] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:23 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:23] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:24 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:24] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:25] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:41:26] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:41:52 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/22 23:41:52 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:41:52 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:41:52 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:42:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:42:01 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:42:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:42:01 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:42:01 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:42:01 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:42:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:42:02 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:42:02 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:42:02 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:42:02 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:42:02 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:42:02 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:43:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:43:50] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:43:50 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:43:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:43:50] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:43:51 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:43:51] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:44:37 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:44:37] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:44:45 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 113, in set_timer
+    Job_Service.add_job(chat_id,due,alarm_test)
+  File "/media/quance/black_03/Telegram_bot/lib/job.py", line 22, in add_job
+    cls._call('add_job',chat_id,count,callback)
+  File "/media/quance/black_03/Telegram_bot/lib/job.py", line 15, in _call
+    cls._job_queue.put(
+TypeError: put() takes from 2 to 4 positional arguments but 5 were given
+2021/07/22 23:44:45 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:44:45] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:47:12 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:47:12 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:47:12 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:47:12 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:47:12 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:47:12 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:47:12 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:47:13 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:47:13 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:47:13 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:47:13 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:47:13 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:47:13 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:49:27 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 23:49:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:49:28] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:49:28 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:49:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:49:28] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:49:28 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:49:28 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:49:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:49:28] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:49:29 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:49:29] "POST /hook/api HTTP/1.0" 200 -
+2021/07/22 23:50:07 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 23:50:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:50:08] "POST /hook/api HTTP/1.0" 200 -
+2021/07/22 23:51:38 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:51:38] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:53:25 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:53:25 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:53:25 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:53:25 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:53:25 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:53:26 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:53:26 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:53:26 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:53:26 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:53:26 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:53:26 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:53:27 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:53:27 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:55:25 +0800 - root - INFO - recive auto update: application/json
+2021/07/22 23:55:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:55:26] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:55:26 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:55:27 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:55:27] "POST /hook/api HTTP/1.0" 200 -
+2021/07/22 23:55:28 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:55:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:55:28] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:55:29 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:55:29] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:56:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:56:08] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:56:40 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:56:40 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:56:40 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:56:40 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:56:41 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/22 23:56:41 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/22 23:56:41 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/22 23:56:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/22 23:56:41 +0800 - root - INFO - Job Service init ...
+2021/07/22 23:56:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/22 23:56:41 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/22 23:56:42 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/22 23:56:42 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/22 23:59:10 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:10] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:10 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:59:10 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/22 23:59:10 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:10] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:10 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:10] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:11 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:11] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:12 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:12] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:13] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:13] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:14 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:14] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:15] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:16 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:16] "POST /hook HTTP/1.0" 200 -
+2021/07/22 23:59:37 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7ff1f45287f0 state=finished raised ValueError>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 412, in add_done_callback
+    fn(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 90, in alarm_test
+    task = context.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 437, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 389, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/media/quance/black_03/Telegram_bot/lib/function.py", line 7, in mytimer
+    chat_id, count = args
+ValueError: not enough values to unpack (expected 2, got 1)
+2021/07/22 23:59:38 +0800 - werkzeug - INFO - 172.19.0.2 - - [22/Jul/2021 23:59:38] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:05:37 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/function.py', reloading
+2021/07/23 00:05:47 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:05:47] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:06:00 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:06:00 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:06:00 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:06:00 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/23 00:06:00 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:06:00 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:06:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:06:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:06:01 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:06:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:06:01 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/23 00:06:02 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:06:02 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:06:15 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:06:15 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:06:15 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:06:15 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/23 00:06:16 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:06:16 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:06:16 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:06:17 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:06:17 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:06:17 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:06:17 +0800 - root - INFO - process_pool Service starting up ....
+2021/07/23 00:06:17 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:06:17 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:07:39 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:07:39 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:07:39 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:07:40 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:07:40 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:07:46 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:46] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:46 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:46] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:47 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:47] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:48 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:48] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:49 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:49] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:50] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:53 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:53] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:54 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:54] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:56 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:56] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:56 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:56] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:07:57 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:07:57] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:01] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:06] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:07] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:07] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:08 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:08] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:09 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:09] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:14 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:08:14 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:08:14 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:08:14 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:08:14 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:08:17 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:08:17] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:08:39 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:08:39 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:08:39 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:08:40 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:08:40 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:08:40 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:08:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:08:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:08:41 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:08:41 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:08:41 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:09:48 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:09:48 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:09:48 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:09:48 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:09:48 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:09:48 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:10:58 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:10:58 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:10:58 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:10:59 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:10:59 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:10:59 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:11:00 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:11:00 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:11:00 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:11:01 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:11:01 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:11:40 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:11:40 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:11:40 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:11:41 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:11:41 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:11:47 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:11:47] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:11:47 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:11:47] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:11:48 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:11:48] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:11:57 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:11:57] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:12:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:12:01] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:12:03 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:12:03] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:12:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:12:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:12:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:12:07] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:12:32 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/23 00:12:44 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:12:44 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:12:44 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:12:46 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:12:46 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:13:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:13:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:13:47 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:13:47 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:13:47 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:13:48 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:13:49 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:13:49 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:13:49 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:13:50 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:13:50 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:14:52 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:14:52 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:14:52 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:14:52 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:14:52 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:14:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:14:54 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:14:54 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:14:54 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:14:55 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:14:55 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:15:43 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:15:43 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:15:43 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:15:43 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:15:43 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:15:44 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:15:44 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:15:44 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:15:44 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:16:16 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:16:16] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:16:17 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:16:17] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:16:18 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:16:18] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:16:19 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:16:19] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:16:19 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:16:19] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:16:26 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/23 00:16:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:16:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:16:46 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:16:46 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:16:46 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:16:46 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:16:48 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:16:48 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:16:48 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:16:48 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:16:48 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:17:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:17:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:17:51 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:17:53 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:17:53 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:17:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:17:57 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:17:57 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:17:58 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:18:00 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:18:00 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:18:22 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:18:22 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:18:22 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:18:25 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:18:25 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:19:07 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/main.py', reloading
+2021/07/23 00:19:25 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:19:25 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:19:25 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:19:26 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:19:26 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:19:26 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:19:29 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:19:29 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:19:29 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:19:31 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:19:31 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:21:48 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7f6468299ac0 state=finished raised ValueError>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 328, in _invoke_callbacks
+    callback(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 90, in alarm_test
+    task = context.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 437, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 389, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/media/quance/black_03/Telegram_bot/lib/function.py", line 8, in mytimer
+    chat_id, count = args
+ValueError: not enough values to unpack (expected 2, got 1)
+2021/07/23 00:21:48 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:48] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:48 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 00:21:48 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:48] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:49 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:49] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:50 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:50] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:51 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:51] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:51 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:51] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:52 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:52] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:53 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:53] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:21:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:21:58] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:22:31 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:22:31] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:26:22 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 00:26:30 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:26:30 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:26:30 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:26:31 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:26:31 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:26:31 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:26:33 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:26:33 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:26:33 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:26:35 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:26:35 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:29:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:15] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:15 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 00:29:15 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 00:29:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:15] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:15] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:16 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:16] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:16 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:16] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:17 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:17] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:18 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:18] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:22 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:22] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:24 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:24] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:26] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:28] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:30] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:32 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:32] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:34] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:36 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:36] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:37 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:37] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:29:44 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7f6a5c293d00 state=finished raised ValueError>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 328, in _invoke_callbacks
+    callback(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 90, in alarm_test
+    task = context.result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 437, in result
+    return self.__get_result()
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 389, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/media/quance/black_03/Telegram_bot/lib/function.py", line 8, in mytimer
+    chat_id, count = args
+ValueError: not enough values to unpack (expected 2, got 1)
+2021/07/23 00:29:45 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:29:45] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:34:27 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 00:34:33 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:34:33 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:34:33 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:34:34 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:34:34 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:34:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:34:35 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:34:35 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:34:35 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:34:36 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:34:36 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:34:50 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:34:50 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:34:50 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:34:51 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:34:51 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:34:51 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:34:52 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:34:52 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:34:52 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:34:53 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:34:53 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:36:32 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:36:32 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:36:32 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:36:32 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:36:32 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:36:32 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:36:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:36:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:36:34 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:36:34 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:36:34 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:38:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:38:58] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:38:58 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 00:38:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:38:58] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:27 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:39:27] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:39:28] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:29 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:39:29] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:39:30] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:36 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:39:36] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:47 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:39:47] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:39:57 +0800 - concurrent.futures - ERROR - exception calling callback for <Future at 0x7f67e83d8220 state=finished returned dict>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 328, in _invoke_callbacks
+    callback(self)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 91, in alarm_test
+    context.bot.send_message(task['chat_id'], text='Beep!')
+AttributeError: 'Future' object has no attribute 'bot'
+2021/07/23 00:40:58 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/23 00:41:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:41:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:41:01 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:41:01 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:41:01 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:41:02 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:41:03 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:41:03 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:41:03 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:41:03 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:41:03 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:43:33 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:43:33] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:43:33 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 00:43:33 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:43:33] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:43:33 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:43:33] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:43:48 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:43:48] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:44:01] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:03 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:44:03] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:04 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:44:04] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:44:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:44:06] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:44:07] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:44:40 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:44:40 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:44:40 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:44:41 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 00:44:41 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 00:44:41 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 00:44:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 00:44:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 00:44:41 +0800 - root - INFO - Job Service init ...
+2021/07/23 00:44:42 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 00:44:42 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 00:46:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:46:34] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:46:38 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:46:38] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:46:48 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:46:48] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:47:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:47:25] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:47:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:47:28] "POST /hook HTTP/1.0" 200 -
+2021/07/23 00:47:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 00:47:30] "POST /hook HTTP/1.0" 200 -
+2021/07/23 10:22:11 +0800 - root - INFO - recive auto update: application/json
+2021/07/23 10:22:13 +0800 - werkzeug - INFO - 172.20.0.2 - - [23/Jul/2021 10:22:13] "POST /hook/api HTTP/1.1" 200 -
+2021/07/23 10:26:44 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 10:26:44] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:28:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:28:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:28:34 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:28:35 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:28:35 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:28:35 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:28:36 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:28:36 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:28:36 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:28:36 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:28:37 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:29:12 +0800 - root - INFO - recive auto update: application/json
+2021/07/23 12:29:14 +0800 - werkzeug - INFO - 192.168.1.140 - - [23/Jul/2021 12:29:14] "POST /hook/api HTTP/1.1" 200 -
+2021/07/23 12:29:32 +0800 - root - INFO - recive auto update: application/json
+2021/07/23 12:29:33 +0800 - werkzeug - INFO - 192.168.1.140 - - [23/Jul/2021 12:29:33] "POST /hook/api HTTP/1.1" 200 -
+2021/07/23 12:29:53 +0800 - root - INFO - recive auto update: application/json
+2021/07/23 12:29:54 +0800 - werkzeug - INFO - 192.168.1.140 - - [23/Jul/2021 12:29:54] "POST /hook/api HTTP/1.1" 200 -
+2021/07/23 12:30:12 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:30:12] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:30:57 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:30:57 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:30:57 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:30:57 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:30:57 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:30:58 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:30:59 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:30:59 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:30:59 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:30:59 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:30:59 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:32:57 +0800 - root - INFO - recive auto update: application/json
+2021/07/23 12:32:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:32:58] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:32:58 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 12:32:58 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:32:58] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:32:58 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 12:32:59 +0800 - werkzeug - INFO - 192.168.1.140 - - [23/Jul/2021 12:32:59] "POST /hook/api HTTP/1.1" 200 -
+2021/07/23 12:33:39 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:33:39 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:33:39 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:33:39 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:33:39 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:33:39 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:33:41 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:33:41 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:33:41 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:33:41 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:33:41 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:35:10 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:35:10 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:35:10 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:35:11 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:35:11 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:35:11 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:35:12 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:35:12 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:35:12 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:35:13 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:35:13 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:36:44 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:36:44 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:36:44 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:36:45 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:36:45 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:36:45 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:36:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:36:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:36:46 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:36:46 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:36:46 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:43:07 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:43:07 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:43:07 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:43:07 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:43:07 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:43:07 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:43:08 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:43:08 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:43:08 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:43:08 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:43:08 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:45:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:45:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:45:05 +0800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: api.telegram.org
+2021/07/23 12:45:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:45:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:45:06 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:45:06] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:45:07 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:45:07] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:45:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:45:25] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:46:09 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:46:12 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:46:12 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:46:12 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:46:13 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:46:13 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:46:13 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:46:14 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:46:14 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:46:14 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:46:14 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:46:14 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:46:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:46:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:46:34 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:46:34 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:46:34 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:46:34 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:46:34 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:46:34 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:46:34 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:46:34 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:46:34 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:46:35 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:46:35] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:46:41 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:46:41] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:46:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:46:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:46:46 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:46:46 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:46:46 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:46:46 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:46:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:46:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:46:47 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:46:47 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:46:47 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:46:49 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:46:49] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:46:51 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:46:51] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:47:07 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:47:07 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:47:07 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:47:07 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:47:07 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:47:07 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:47:08 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:47:08 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:47:08 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:47:08 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:47:08 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:47:23 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:47:23 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:47:23 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:47:23 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:47:23 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:47:23 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:47:23 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:47:24 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:47:24 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:47:24 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:47:24 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:47:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:47:25] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:47:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:47:26] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:47:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:47:34] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:47:49 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:47:49 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:47:49 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:47:49 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:47:49 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:47:49 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:47:50 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:47:50 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:47:50 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:47:50 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:47:51 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:49:11 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:49:11 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:49:11 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:49:11 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:49:11 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:49:11 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:49:12 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:49:12 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:49:12 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:49:12 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:49:12 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:49:23 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:23] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:24 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:24] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:25] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:25 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:25] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:26 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:26] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:27 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:27] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:28] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:29 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:29] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:30] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:30] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:31 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:31] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:32 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:32] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:33 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:33] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:34] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:34 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:34] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:49:52 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:49:52] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:50:34 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:50:37 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:50:37 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:50:37 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:50:37 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:50:37 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:50:37 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:50:38 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:50:38 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:50:38 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:50:38 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:50:38 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:50:42 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:50:42] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:50:49 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:50:49] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:50:53 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:50:53 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:50:53 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:50:53 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:50:53 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:50:53 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:50:53 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:50:53 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:50:53 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:50:53 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:50:53 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:50:57 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:50:57] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:51:35 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:51:46 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:51:46 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:51:46 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:51:46 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:51:46 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:51:46 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:51:47 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:51:47 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:51:47 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:51:47 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:51:47 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:51:54 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:51:55 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:51:55 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:51:55 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:51:55 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:51:55 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:51:55 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:51:56 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:51:56 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:51:56 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:51:56 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:51:56 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:52:12 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:52:12] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:52:16 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:52:16] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:52:35 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:52:43 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:52:43] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:52:58 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:52:58 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:52:58 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:52:58 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:52:58 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:52:58 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:52:59 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:52:59 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:52:59 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:52:59 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:52:59 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:53:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:53:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:53:46 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:53:48 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:53:48 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:53:48 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:53:49 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:53:49 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:53:49 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:53:49 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:53:49 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:53:49 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:53:49 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:53:49 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:53:54 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:53:54] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:54:14 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:54:14] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:54:18 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:54:18] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:54:46 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:54:51 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:54:51 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:54:51 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:54:51 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:54:51 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:54:51 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:54:51 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:54:51 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:54:51 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:54:51 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:54:51 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:54:56 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:54:56] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:54:59 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:54:59] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:55:04 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:55:04] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:55:41 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/job.py', reloading
+2021/07/23 12:55:57 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:55:57] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:56:00 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:56:00] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:56:05 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:56:05] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:57:23 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:57:23] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:59:08 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:59:08 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:59:08 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:59:08 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:59:08 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:59:08 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:59:09 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:59:09 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:59:09 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:59:09 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:59:09 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:59:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:59:15] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:59:28 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/fn.py', reloading
+2021/07/23 12:59:31 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:59:31 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:59:31 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:59:31 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 12:59:31 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 12:59:31 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 12:59:32 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 12:59:32 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 12:59:32 +0800 - root - INFO - Job Service init ...
+2021/07/23 12:59:32 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 12:59:32 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 12:59:37 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:59:37] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:59:39 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 12:59:39] "POST /hook HTTP/1.0" 200 -
+2021/07/23 12:59:49 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/fn.py', reloading
+2021/07/23 13:00:56 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 13:00:56 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 13:00:56 +0800 - root - INFO - Job Service init ...
+2021/07/23 13:00:56 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/23 13:00:56 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/23 13:00:56 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/23 13:00:57 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/23 13:00:57 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/23 13:00:57 +0800 - root - INFO - Job Service init ...
+2021/07/23 13:00:57 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/23 13:00:57 +0800 - werkzeug - INFO -  * Debugger PIN: 338-249-359
+2021/07/23 13:01:03 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:01:03] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:01:09 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:01:09] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:01:13 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:01:13] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:01:15 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:01:15] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:01:40 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:01:40] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:01:55 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:01:55] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:04:59 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:04:59] "POST /hook HTTP/1.0" 200 -
+2021/07/23 13:05:28 +0800 - werkzeug - INFO - 172.19.0.2 - - [23/Jul/2021 13:05:28] "POST /hook HTTP/1.0" 200 -
