@@ -1,30 +1,41 @@
-#! /usr/bin/python3
+#! /media/quance/black_03/Telegram_bot/venv/bin/python3
 import logging
 import os
-import traceback
-import html
 import json
-import telegram
+import threading
 from flask import Flask, request
-from telegram.ext import jobqueue
-# from telegram import ReplyKeyboardMarkup, Update, ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
-# from telegram.ext import (Updater, CommandHandler, MessageHandler,  CallbackQueryHandler,
-#     Filters, CallbackContext, Dispatcher)
+from telegram import message
 from lib.app import *
 from lib.db import SQLite_Service
 from lib.job import Job_Service
-from lib.util.sys_config import Telegram_config,logging_config_init,logging_start
+from lib.util.sys_config import logging_config_init,logging_start
 
-app = Flask(__name__)
+# app = Flask(__name__)
 
-DEVELOPER_CHAT_ID = Telegram_config.all_config['Telegram']['Developer_chat_id']
+@app.route('/hook/apiv1', methods=['POST'])
 
-# db = SQLite_Service().run()
-# process_pool = Job_Service().start()
+def proxy_send():
+    """ get update to send messge """
+    if request.method == "POST":
+        logging.info(msg='recive auto update: {}'.format(request.content_type))
+        group = request.args['group']
+        logging.info(msg=f'group name {group}')
+        if request.content_type == 'application/json':
+            bi_data = request.data
+            data = json.loads(bi_data.decode('utf-8'))
+            message_handler(group=group,message=data['message'])
+            # auto_handler(message=data['message'])
+        elif request.content_type == 'image/jpeg':
+            bi_data = request.data
+            # image_handler_old(image=bi_data)
+            image_handler(group,bi_data)
+        
+    return 'ok'
+
 
 @app.route('/hook/api', methods=['POST'])
 
-def auto_update():
+async def auto_update():
     """ get update to send messge """
     if request.method == "POST":
         logging.info(msg='recive auto update: {}'.format(request.content_type))
@@ -35,7 +46,7 @@ def auto_update():
         elif request.content_type == 'image/jpeg':
             bi_data = request.data
             image_handler(image=bi_data)
-        
+    # a = await mytime(10)
     return 'ok'
 
 @app.route('/hook', methods=['POST'])

@@ -1,4 +1,6 @@
 __pycache__/*
 /data_file/*
 /data_file/*/*/*.db
+/log_file/*
 *.db
+/venv/*

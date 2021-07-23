@@ -8,4 +8,6 @@ def mytimer(args):
     for i in range(count):
         # print(f"time wait {i}")
         time.sleep(1)
-    return {'chat_id': chat_id}
+    message = 'Beep! Time end'
+    return {'chat_id': chat_id,
+            'message': message}

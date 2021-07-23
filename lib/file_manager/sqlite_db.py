@@ -61,9 +61,10 @@ class SQLite:
     
     def data_select(self,tablename,data_format,condition):
         self._open(tablename)
-        column = ','.join(data_format)
+        column = ','.join([f'{key}' for key, value in data_format['column'].items()])
+        # column = ','.join(data_format)
         self.exe(f'select {column} from {self.tablename} {condition};')
         data = self.fa()
-        # print(data)
+        print(data)
         self.close()
         return data

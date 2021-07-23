@@ -27,6 +27,9 @@ class SQL_config:
     with open(os.path.join(config_dir,'user_schema.yaml'),'r', encoding='utf-8') as f:
         config_file = yaml.load(f, Loader=yaml.FullLoader)
     user_format = config_file['sql_data_format']
+    with open(os.path.join(config_dir,'group_schema.yaml'),'r', encoding='utf-8') as f:
+        config_file = yaml.load(f, Loader=yaml.FullLoader)
+    group_format = config_file['sql_data_format']
 
 def logging_config_init(ex_path):
     # ex_path = os.path.dirname(os.path.abspath(__file__))

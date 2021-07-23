@@ -173,3 +173,163 @@ Traceback (most recent call last):
   File "/media/quance/black_03/Telegram_bot/lib/app.py", line 91, in alarm_test
     context.bot.send_message(task['chat_id'], text='Beep!')
 AttributeError: 'Future' object has no attribute 'bot'
+2021/07/23 15:19:37 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 49, in register_handler
+    chat_type, chat_name = 0 ,'null'if not update.message.chat.title else 1 ,update.message.chat.title
+ValueError: too many values to unpack (expected 2)
+2021/07/23 15:20:24 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 49, in register_handler
+    chat_type, chat_name = 0 ,'null' if not update.message.chat.title else 1 ,update.message.chat.title
+ValueError: too many values to unpack (expected 2)
+2021/07/23 15:32:52 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 76, in button
+    user = update.message.from_user
+AttributeError: 'NoneType' object has no attribute 'from_user'
+2021/07/23 15:36:11 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 73, in button
+    query.answer()
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/callbackquery.py", line 146, in answer
+    return self.bot.answer_callback_query(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 126, in decorator
+    result = func(*args, **kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 2403, in answer_callback_query
+    result = self._post('answerCallbackQuery', data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 258, in _post
+    return self.request.post(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 349, in post
+    result = self._request_wrapper(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 272, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Query is too old and response timeout expired or query id is invalid
+2021/07/23 15:37:24 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 77, in button
+    update.message.reply_text(welcome_message)#, reply_markup=reply_keyboard_markup)
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2021/07/23 15:37:57 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 78, in button
+    chat_type, chat_name = (0, 'null') if not update.message.chat.title else (1, update.message.chat.title)
+AttributeError: 'NoneType' object has no attribute 'chat'
+2021/07/23 15:39:53 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 73, in button
+    query.answer()
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/callbackquery.py", line 146, in answer
+    return self.bot.answer_callback_query(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 126, in decorator
+    result = func(*args, **kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 2403, in answer_callback_query
+    result = self._post('answerCallbackQuery', data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 258, in _post
+    return self.request.post(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 349, in post
+    result = self._request_wrapper(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 272, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Query is too old and response timeout expired or query id is invalid
+2021/07/23 15:42:05 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 78, in button
+    chat_type, chat_name = (0, 'null') if not update.callback_query.message.chat.title else (1, update.message.chat.title)
+AttributeError: 'NoneType' object has no attribute 'chat'
+2021/07/23 15:43:47 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 73, in button
+    query.answer()
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/callbackquery.py", line 146, in answer
+    return self.bot.answer_callback_query(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 126, in decorator
+    result = func(*args, **kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 2403, in answer_callback_query
+    result = self._post('answerCallbackQuery', data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 258, in _post
+    return self.request.post(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 349, in post
+    result = self._request_wrapper(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 272, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Query is too old and response timeout expired or query id is invalid
+2021/07/23 15:57:22 +0800 - root - ERROR - can not select data from sqlite db name 8555f0c55d3a2009faaef6fb164e51537baa6a6b with error no such column: column
+2021/07/23 16:18:10 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 73, in button
+    query.answer()
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/callbackquery.py", line 146, in answer
+    return self.bot.answer_callback_query(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 126, in decorator
+    result = func(*args, **kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 2403, in answer_callback_query
+    result = self._post('answerCallbackQuery', data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 258, in _post
+    return self.request.post(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 349, in post
+    result = self._request_wrapper(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 272, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Query is too old and response timeout expired or query id is invalid
+2021/07/23 16:18:11 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/ext/handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 73, in button
+    query.answer()
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/callbackquery.py", line 146, in answer
+    return self.bot.answer_callback_query(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 126, in decorator
+    result = func(*args, **kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 2403, in answer_callback_query
+    result = self._post('answerCallbackQuery', data, timeout=timeout, api_kwargs=api_kwargs)
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/bot.py", line 258, in _post
+    return self.request.post(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 349, in post
+    result = self._request_wrapper(
+  File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 272, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Query is too old and response timeout expired or query id is invalid

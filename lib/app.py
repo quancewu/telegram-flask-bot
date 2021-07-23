@@ -1,4 +1,6 @@
 import logging
+import queue
+import time
 import traceback
 import html
 import json
@@ -9,23 +11,46 @@ from telegram.ext import (Updater, CommandHandler, MessageHandler,  CallbackQuer
     Filters, CallbackContext, Dispatcher)
 from lib.file_manager.sqliteapi import SQLiteManager
 from lib.job import Job_Service
+from flask import Flask, request
+from flask_executor import Executor
+from telegram_bot import *
+from lib.fn import mytimer
+
 from lib.util.sys_config import Telegram_config,SQL_config
 
 DEVELOPER_CHAT_ID = Telegram_config.all_config['Telegram']['Developer_chat_id']
 
 bot = telegram.Bot(token=Telegram_config.all_config['Telegram']['Access_token'])
 
+app = Flask(__name__)
+
+executor = Executor(app)
+app.config['EXECUTOR_TYPE'] = 'thread'
+# app.config['EXECUTOR_MAX_WORKERS'] = 5
+
+
 welcome_message = "Hello world it's quance's toys\n\n" \
-                "You can see Qlog_sys log report in here"
+                "You can see Qlog_sys log report in here\n\n" \
+                "You can control me by sending these commands:\n\n" \
+                "/start - see this manual\n" \
+                "/register - register to this telegram bot\n" \
+                "/group - subscrible message for user or group\n" \
+                "/help - see this message"
+
+group_dict = {  
+                "group_01": "CAlab admin",
+                "group_02": "Group 02",
+                "group_03": "Group 03",
+            }
 
 reply_keyboard_markup = ReplyKeyboardMarkup([['Today Error log','Log',],
                                              ['is good ?','/group']])
 Inline_keyboard_markup = InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("Group 1", callback_data='1'),
-            InlineKeyboardButton("Group 2", callback_data='2'),
+            InlineKeyboardButton("CAlab admin", callback_data='group_01'),
+            InlineKeyboardButton("Group 02", callback_data='group_01'),
         ],
-        [   InlineKeyboardButton("Group 3", callback_data='3')],
+        [   InlineKeyboardButton("Group 03", callback_data='group_03')],
     ])
 
 def start_handler(update: Update, context: CallbackContext) -> None:
@@ -34,16 +59,6 @@ def start_handler(update: Update, context: CallbackContext) -> None:
     logging.info("User %s, %s started the conversation.", user.first_name,user.last_name)
     update.message.reply_text(welcome_message, reply_markup=reply_keyboard_markup)
     logging.info("chat id: %s",update.message.chat_id)
-    
-    # data_format = ['first_name','last_name','chat_id']
-    chat_type = 'user_chat' if not update.message.chat.title else 'group_chat'
-    print('chat title:',update.message.chat.title)
-    print('chat type:',chat_type)
-    chat_type = 0 if not update.message.chat.title else 1
-
-    data = [[f"'{user.first_name}'",f"'{user.last_name}'",f"'{update.message.chat_id}'",f"{chat_type}"]]
-    # SQLiteManager.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
-    # update.message.reply_text(update.message.chat_id)
     
 def help_handler(update: Update, context: CallbackContext) -> None:
     """Send a message when the command /help is issued."""
@@ -55,8 +70,9 @@ def register_handler(update: Update, context: CallbackContext) -> None:
     logging.info("User %s, %s register to system", user.first_name,user.last_name)
     update.message.reply_text(welcome_message)#, reply_markup=reply_keyboard_markup)
     logging.info("chat id: %s",update.message.chat_id)
-    chat_type = 0 if not update.message.chat.title else 1
-    data = [[f"'{user.first_name}'",f"'{user.last_name}'",f"'{update.message.chat_id}'",f"{chat_type}"]]
+    chat_type, chat_name = (0, 'null') if not update.message.chat.title else (1, update.message.chat.title)
+    data = [[f"'{user.first_name}'",f"'{user.last_name}'",f"'{update.message.chat_id}'",f"'{chat_name}'",f"{chat_type}"]]
+    # print(data)
     SQLiteManager.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
     
 def group_handler(update: Update, context: CallbackContext) -> None:
@@ -73,8 +89,19 @@ def button(update: Update, context: CallbackContext) -> None:
     # CallbackQueries need to be answered, even if no notification to the user is needed
     # Some clients may have trouble otherwise. See https://core.telegram.org/bots/api#callbackquery
     query.answer()
+    group_reply = group_dict[query.data]
 
-    query.edit_message_text(text=f"Selected option: {query.data}")
+    user = update.callback_query.from_user
+    logging.info("chat id: %s",user.id)
+    chat_type, chat_name = (0, 'null') if not update.callback_query.message.chat.title \
+                                        else (1, update.callback_query.message.chat.title)
+    data = [[f"'{user.first_name}'",f"'{user.last_name}'",f"'{update.callback_query.message.chat_id}'",f"'{chat_name}'",f"{chat_type}"]]
+    print(data)
+    SQLiteManager.insert_data((f'{query.data}',datetime(2020,1,1)),data,SQL_config.group_format)
+
+    logging.info("User %s, %s register to group %s", user.first_name,user.last_name,group_reply)
+
+    query.edit_message_text(text=f"Selected group: {group_reply}")
 
 def echo(update: Update, context: CallbackContext) -> None:
     """Echo the user message."""
@@ -83,7 +110,7 @@ def echo(update: Update, context: CallbackContext) -> None:
 def alarm(context):
     """Send the alarm message."""
     task = context.result()
-    bot.send_message(task['chat_id'], text='Beep!')
+    bot.send_message(task['chat_id'], text=task['message'])
 
 def remove_job_if_exists(name: str, context: CallbackContext) -> bool:
     """Remove job with given name. Returns whether job was removed."""
@@ -94,6 +121,9 @@ def remove_job_if_exists(name: str, context: CallbackContext) -> bool:
         job.schedule_removal()
     return True
 
+async def mytime(times):
+    time.sleep(times)
+    return times
 
 def set_timer(update: Update, context: CallbackContext) -> None:
     """Add a job to the queue."""
@@ -104,12 +134,14 @@ def set_timer(update: Update, context: CallbackContext) -> None:
         if due < 0:
             update.message.reply_text('Sorry we can not go back to future!')
             return
-
-        Job_Service.add_job(chat_id,due,alarm)
+        
+        # Job_Service.add_job(chat_id,due,alarm)
+        executor.submit(mytimer,(chat_id,due)).add_done_callback(alarm)
         # job_removed = remove_job_if_exists(str(chat_id), context)
         # context.job_queue.run_once(alarm, due, context=chat_id, name=str(chat_id))
 
         text = 'Timer successfully set!'
+        
         # if job_removed:
         #     text += ' Old one was removed.'
         update.message.reply_text(text)
@@ -124,12 +156,36 @@ def unset(update: Update, context: CallbackContext) -> None:
     text = 'Timer successfully cancelled!' if job_removed else 'You have no active timer.'
     update.message.reply_text(text)
 
+def message_handler(group=DEVELOPER_CHAT_ID, message='') -> None:
+    request_user_data = queue.Queue(maxsize=300)
+    SQLiteManager.select_data((f'{group}',datetime(2020,1,1)),
+                                request_user_data,
+                                SQL_config.group_format,
+                                'order by 1')
+    chat_list = request_user_data.get()
+    print(chat_list)
+    if chat_list != 'no data':
+        for ichat in chat_list:
+            bot.send_message(chat_id=ichat[3] ,text=message)
+
 def auto_handler(message) -> None:
     # message = 'test for auto'
     bot.send_message(chat_id=DEVELOPER_CHAT_ID, text=message)
-    bot.send_message(chat_id='-1001275188916', text=message)
+    # bot.send_message(chat_id='-1001275188916', text=message)
 
-def image_handler(image):
+def image_handler(group, image) -> None:
+    request_user_data = queue.Queue(maxsize=300)
+    SQLiteManager.select_data((f'{group}',datetime(2020,1,1)),
+                                request_user_data,
+                                SQL_config.group_format,
+                                'order by 1')
+    chat_list = request_user_data.get()
+    print(chat_list)
+    if chat_list != 'no data':
+        for ichat in chat_list:
+            bot.send_photo(chat_id=ichat[3], photo=image)
+
+def image_handler_old(image):
     bot.send_photo(chat_id=DEVELOPER_CHAT_ID, photo=image)
 
 def error_handler(update: Update, context: CallbackContext) -> None:
