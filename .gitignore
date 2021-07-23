@@ -1,5 +1,4 @@
-/__pycache__/*
-config/*
+__pycache__/*
 /data_file/*
-/data_file/*/*/*
+/data_file/*/*/*.db
 *.db
