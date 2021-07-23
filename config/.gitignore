@@ -2,3 +2,4 @@ config.ini
 config.yaml
 logging.yaml
 user_schema.yaml
+group_schema.yaml
