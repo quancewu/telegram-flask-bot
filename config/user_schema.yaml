@@ -1,8 +1,0 @@
-sql_data_format:
-  column:
-    id: integer primary key
-    first_name: char(10)
-    last_name: char(20)
-    chat_id: char(20)
-    is_group: integer
-  unique_constraint: [chat_id]
