@@ -9,11 +9,12 @@ from datetime import datetime
 from telegram import ReplyKeyboardMarkup, Update, ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import (Updater, CommandHandler, MessageHandler,  CallbackQueryHandler,
     Filters, CallbackContext, Dispatcher)
-from lib.file_manager.sqliteapi import SQLiteManager
+from lib.file_manager.sqliteapi import SQLiteApi
 from lib.job import Job_Service
-from flask import Flask, request
+from flask import Flask, request, current_app
+from lib.lock import Lock
 from flask_executor import Executor
-from telegram_bot import *
+# from telegram_bot import *
 from lib.fn import mytimer
 
 from lib.util.sys_config import Telegram_config,SQL_config
@@ -23,11 +24,12 @@ DEVELOPER_CHAT_ID = Telegram_config.all_config['Telegram']['Developer_chat_id']
 bot = telegram.Bot(token=Telegram_config.all_config['Telegram']['Access_token'])
 
 app = Flask(__name__)
+app.lock = Lock.get_file_lock()
 
 executor = Executor(app)
 app.config['EXECUTOR_TYPE'] = 'thread'
 # app.config['EXECUTOR_MAX_WORKERS'] = 5
-
+SQLiteApi = SQLiteApi()
 
 welcome_message = "Hello world it's quance's toys\n\n" \
                 "You can see Qlog_sys log report in here\n\n" \
@@ -73,7 +75,9 @@ def register_handler(update: Update, context: CallbackContext) -> None:
     chat_type, chat_name = (0, 'null') if not update.message.chat.title else (1, update.message.chat.title)
     data = [[f"'{user.first_name}'",f"'{user.last_name}'",f"'{update.message.chat_id}'",f"'{chat_name}'",f"{chat_type}"]]
     # print(data)
-    SQLiteManager.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+    current_app.lock.acquire()  
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+    current_app.lock.release()
     
 def group_handler(update: Update, context: CallbackContext) -> None:
     """Send a message when the command /setgroup is issued."""
@@ -97,7 +101,9 @@ def button(update: Update, context: CallbackContext) -> None:
                                         else (1, update.callback_query.message.chat.title)
     data = [[f"'{user.first_name}'",f"'{user.last_name}'",f"'{update.callback_query.message.chat_id}'",f"'{chat_name}'",f"{chat_type}"]]
     print(data)
-    SQLiteManager.insert_data((f'{query.data}',datetime(2020,1,1)),data,SQL_config.group_format)
+    current_app.lock.acquire()  
+    SQLiteApi.insert_data((f'{query.data}',datetime(2020,1,1)),data,SQL_config.group_format)
+    current_app.lock.release()
 
     logging.info("User %s, %s register to group %s", user.first_name,user.last_name,group_reply)
 
@@ -157,12 +163,11 @@ def unset(update: Update, context: CallbackContext) -> None:
     update.message.reply_text(text)
 
 def message_handler(group=DEVELOPER_CHAT_ID, message='') -> None:
-    request_user_data = queue.Queue(maxsize=300)
-    SQLiteManager.select_data((f'{group}',datetime(2020,1,1)),
-                                request_user_data,
+    current_app.lock.acquire()  
+    chat_list = SQLiteApi.select_data((f'{group}',datetime(2020,1,1)),
                                 SQL_config.group_format,
                                 'order by 1')
-    chat_list = request_user_data.get()
+    current_app.lock.release()
     print(chat_list)
     if chat_list != 'no data':
         for ichat in chat_list:
@@ -174,12 +179,11 @@ def auto_handler(message) -> None:
     # bot.send_message(chat_id='-1001275188916', text=message)
 
 def image_handler(group, image) -> None:
-    request_user_data = queue.Queue(maxsize=300)
-    SQLiteManager.select_data((f'{group}',datetime(2020,1,1)),
-                                request_user_data,
+    current_app.lock.acquire()
+    chat_list = SQLiteApi.select_data((f'{group}',datetime(2020,1,1)),
                                 SQL_config.group_format,
                                 'order by 1')
-    chat_list = request_user_data.get()
+    current_app.lock.release()
     print(chat_list)
     if chat_list != 'no data':
         for ichat in chat_list:

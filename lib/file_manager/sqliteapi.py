@@ -6,6 +6,64 @@ from .sqlite_db import SQLite
 from lib.util.util import exist_or_create_dir,get_data_dir,get_db_name
 from lib.util.sys_config import File
 
+class SQLiteApi:
+    
+    def __init__(self) -> None:
+        logging.info('SQLite3 api upload init ...')
+    
+    def select_data(self,unique_code,data_format,condition):
+        data_dir = get_data_dir(
+                        File.save_dir,*unique_code
+                    )
+        exist_or_create_dir(data_dir)
+        filename = get_db_name(*unique_code)
+        file_path = os.path.join(data_dir,"{}.db".format(filename))
+        local_sql = SQLite(file_path)
+        data_array = local_sql.data_select('data',data_format,condition)
+        if data_array != []:
+            return_data = data_array
+        else:
+            return_data = 'no data'
+        return return_data
+
+    def insert_data(self,unique_code,data,data_format):
+        data_dir = get_data_dir(
+                        File.save_dir,*unique_code
+                    )
+        exist_or_create_dir(data_dir)
+        filename = get_db_name(*unique_code)
+        file_path = os.path.join(data_dir,"{}.db".format(filename))
+        try:
+            local_sql = SQLite(file_path)
+            local_sql.upload_data('data',data,data_format)
+            # logging.info(f"data save path {file_path}")
+            # logging.info(f"data save to sqlite db name {filename}")
+        except Exception as e:
+            logging.error(f"data save path {file_path}")
+            logging.error(f"data save to sqlite db name {filename} with error {e}")
+        return 'OK'
+    
+    def update_data(self,unique_code,data,data_format):
+        data_dir = get_data_dir(
+            File.save_dir,*unique_code
+        )
+        exist_or_create_dir(data_dir)
+        filename = get_db_name(*unique_code)
+        try:
+            file_path = os.path.join(data_dir,"{}.db".format(filename))
+            local_sql = SQLite(file_path)
+            local_sql.update_data('data',data,data_format)
+            # logging.info(f"data update path {file_path}")
+            # logging.info(f"data update to sqlite db name {filename}")
+        except Exception as e:
+            logging.error(f"data save path {file_path}")
+            logging.error(f"data can not update to sqlite db name {filename} with error {e}")
+        return 'OK'
+        
+
+    def delete_data(self,unique_code,data,data_format):
+        pass
+
 class SQLiteManager(threading.Thread):
     _save_queue = queue.Queue(maxsize=600)
 

@@ -333,3 +333,39 @@ Traceback (most recent call last):
   File "/home/quance/.local/lib/python3.8/site-packages/telegram/utils/request.py", line 272, in _request_wrapper
     raise BadRequest(message)
 telegram.error.BadRequest: Query is too old and response timeout expired or query id is invalid
+2021/07/24 21:26:51 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+TypeError: insert_data() missing 1 required positional argument: 'data_format'
+2021/07/24 21:28:02 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+TypeError: insert_data() missing 1 required positional argument: 'data_format'
+2021/07/24 21:29:29 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+TypeError: insert_data() missing 1 required positional argument: 'data_format'
+2021/07/24 21:31:40 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(unique_code=('user',datetime(2020,1,1)),
+TypeError: insert_data() missing 1 required positional argument: 'self'

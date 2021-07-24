@@ -3155,3 +3155,133 @@ telegram.error.BadRequest: Query is too old and response timeout expired or quer
 2021/07/23 22:08:34 +0800 - root - INFO - Job Service init ...
 2021/07/23 22:08:34 +0800 - werkzeug - WARNING -  * Debugger is active!
 2021/07/23 22:08:34 +0800 - werkzeug - INFO -  * Debugger PIN: 129-826-309
+2021/07/24 20:53:01 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/24 20:53:01 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/24 20:53:01 +0800 - root - INFO - Job Service init ...
+2021/07/24 20:53:01 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 20:53:01 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 20:53:01 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 20:53:02 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/24 20:53:02 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/24 20:53:02 +0800 - root - INFO - Job Service init ...
+2021/07/24 20:53:02 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 20:53:02 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 20:53:09 +0800 - root - INFO - recive auto update: application/json
+2021/07/24 20:53:10 +0800 - werkzeug - INFO - 192.168.1.140 - - [24/Jul/2021 20:53:10] "POST /hook/api?group=group_01 HTTP/1.1" 200 -
+2021/07/24 20:53:39 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/telegram_bot.py', reloading
+2021/07/24 20:54:05 +0800 - root - INFO - recive auto update: application/json
+2021/07/24 20:54:05 +0800 - root - INFO - group name group_01
+2021/07/24 20:54:05 +0800 - root - INFO - select data from sqlite db name 8555f0c55d3a2009faaef6fb164e51537baa6a6b
+2021/07/24 20:54:07 +0800 - werkzeug - INFO - 192.168.1.140 - - [24/Jul/2021 20:54:07] "POST /hook/apiv1?group=group_01 HTTP/1.1" 200 -
+2021/07/24 21:12:49 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/24 21:12:49 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/24 21:12:49 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 21:12:49 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 21:12:49 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:12:50 +0800 - root - INFO - SQLite3 api upload init ...
+2021/07/24 21:12:50 +0800 - root - INFO - SQLite Service starting up ....
+2021/07/24 21:12:50 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:12:50 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:13:01 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:13:02 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:13:04 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:13:04] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:26:38 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 21:26:38 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 21:26:38 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:26:39 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:26:39 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:26:47 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:26:48 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:26:51 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+TypeError: insert_data() missing 1 required positional argument: 'data_format'
+2021/07/24 21:26:52 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:26:52] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:27:54 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 21:27:54 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 21:27:54 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:27:56 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:27:56 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:28:00 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:28:00 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:28:02 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+TypeError: insert_data() missing 1 required positional argument: 'data_format'
+2021/07/24 21:28:03 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:28:03] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:29:18 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqliteapi.py', reloading
+2021/07/24 21:29:21 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:29:22 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:29:22 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:29:27 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:29:27 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:29:29 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(('user',datetime(2020,1,1)),data,SQL_config.user_format)
+TypeError: insert_data() missing 1 required positional argument: 'data_format'
+2021/07/24 21:29:30 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:29:30] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:31:26 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/24 21:31:30 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 21:31:30 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 21:31:30 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:31:31 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:31:31 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:31:40 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:31:40 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:31:40 +0800 - root - ERROR - Exception while handling an update:
+Traceback (most recent call last):
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 555, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/media/quance/black_03/Telegram_bot/venv/lib/python3.8/site-packages/telegram/ext/handler.py", line 198, in handle_update
+    return self.callback(update, context)
+  File "/media/quance/black_03/Telegram_bot/lib/app.py", line 79, in register_handler
+    SQLiteApi.insert_data(unique_code=('user',datetime(2020,1,1)),
+TypeError: insert_data() missing 1 required positional argument: 'self'
+2021/07/24 21:31:41 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:31:41] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:32:17 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/file_manager/sqliteapi.py', reloading
+2021/07/24 21:32:55 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 21:32:55 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 21:32:55 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:32:56 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:32:56 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:34:55 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/24 21:34:59 +0800 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021/07/24 21:34:59 +0800 - werkzeug - INFO -  * Running on http://192.168.1.140:5000/ (Press CTRL+C to quit)
+2021/07/24 21:34:59 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:35:00 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:35:00 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:35:11 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:35:11 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:35:11 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:35:11] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:36:49 +0800 - werkzeug - INFO -  * Detected change in '/media/quance/black_03/Telegram_bot/lib/app.py', reloading
+2021/07/24 21:36:52 +0800 - werkzeug - INFO -  * Restarting with stat
+2021/07/24 21:36:53 +0800 - werkzeug - WARNING -  * Debugger is active!
+2021/07/24 21:36:53 +0800 - werkzeug - INFO -  * Debugger PIN: 433-299-272
+2021/07/24 21:37:00 +0800 - root - INFO - User Wu, Quance register to system
+2021/07/24 21:37:01 +0800 - root - INFO - chat id: 845044764
+2021/07/24 21:37:01 +0800 - werkzeug - INFO - 172.19.0.2 - - [24/Jul/2021 21:37:01] "POST /hook HTTP/1.0" 200 -
+2021/07/24 21:37:21 +0800 - root - INFO - recive auto update: application/json
+2021/07/24 21:37:21 +0800 - root - INFO - group name group_01
+2021/07/24 21:37:22 +0800 - werkzeug - INFO - 192.168.1.140 - - [24/Jul/2021 21:37:22] "POST /hook/apiv1?group=group_01 HTTP/1.1" 200 -

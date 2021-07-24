@@ -2,15 +2,10 @@
 import logging
 import os
 import json
-import threading
-from flask import Flask, request
+# from flask import Flask, request
 from telegram import message
 from lib.app import *
-from lib.db import SQLite_Service
-from lib.job import Job_Service
 from lib.util.sys_config import logging_config_init,logging_start
-
-# app = Flask(__name__)
 
 @app.route('/hook/apiv1', methods=['POST'])
 
@@ -63,6 +58,4 @@ if __name__ == "__main__":
     ex_path = os.path.dirname(os.path.abspath(__file__))
     logging_config_init(ex_path)
     logging_start(ex_path)
-    db = SQLite_Service().run()
-    process_pool = Job_Service().start()
     app.run(debug=True,host='0.0.0.0')
