@@ -118,15 +118,6 @@ def alarm(context):
     task = context.result()
     bot.send_message(task['chat_id'], text=task['message'])
 
-def remove_job_if_exists(name: str, context: CallbackContext) -> bool:
-    """Remove job with given name. Returns whether job was removed."""
-    current_jobs = context.job_queue.get_jobs_by_name(name)
-    if not current_jobs:
-        return False
-    for job in current_jobs:
-        job.schedule_removal()
-    return True
-
 async def mytime(times):
     time.sleep(times)
     return times
@@ -140,16 +131,10 @@ def set_timer(update: Update, context: CallbackContext) -> None:
         if due < 0:
             update.message.reply_text('Sorry we can not go back to future!')
             return
-        
-        # Job_Service.add_job(chat_id,due,alarm)
         executor.submit(mytimer,(chat_id,due)).add_done_callback(alarm)
-        # job_removed = remove_job_if_exists(str(chat_id), context)
-        # context.job_queue.run_once(alarm, due, context=chat_id, name=str(chat_id))
 
         text = 'Timer successfully set!'
         
-        # if job_removed:
-        #     text += ' Old one was removed.'
         update.message.reply_text(text)
 
     except (IndexError, ValueError):
@@ -157,10 +142,7 @@ def set_timer(update: Update, context: CallbackContext) -> None:
 
 def unset(update: Update, context: CallbackContext) -> None:
     """Remove the job if the user changed their mind."""
-    chat_id = update.message.chat_id
-    job_removed = remove_job_if_exists(str(chat_id), context)
-    text = 'Timer successfully cancelled!' if job_removed else 'You have no active timer.'
-    update.message.reply_text(text)
+    pass
 
 def message_handler(group=DEVELOPER_CHAT_ID, message='') -> None:
     current_app.lock.acquire()  
@@ -186,7 +168,12 @@ def image_handler(group, image) -> None:
     current_app.lock.release()
     print(chat_list)
     if chat_list != 'no data':
-        for ichat in chat_list:
+        executor.submit(image_postman,chat_list,image)
+        # for ichat in chat_list:
+        #     bot.send_photo(chat_id=ichat[3], photo=image)
+
+def image_postman(chat_list,image):
+    for ichat in chat_list:
             bot.send_photo(chat_id=ichat[3], photo=image)
 
 def image_handler_old(image):

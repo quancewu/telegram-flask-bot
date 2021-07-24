@@ -65,6 +65,6 @@ class SQLite:
         # column = ','.join(data_format)
         self.exe(f'select {column} from {self.tablename} {condition};')
         data = self.fa()
-        print(data)
+        # print(data)
         self.close()
         return data

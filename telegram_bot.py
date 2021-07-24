@@ -9,7 +9,7 @@ from lib.util.sys_config import logging_config_init,logging_start
 
 @app.route('/hook/apiv1', methods=['POST'])
 
-def proxy_send():
+async def proxy_send():
     """ get update to send messge """
     if request.method == "POST":
         logging.info(msg='recive auto update: {}'.format(request.content_type))
@@ -19,12 +19,9 @@ def proxy_send():
             bi_data = request.data
             data = json.loads(bi_data.decode('utf-8'))
             message_handler(group=group,message=data['message'])
-            # auto_handler(message=data['message'])
         elif request.content_type == 'image/jpeg':
             bi_data = request.data
-            # image_handler_old(image=bi_data)
             image_handler(group,bi_data)
-        
     return 'ok'
 
 
